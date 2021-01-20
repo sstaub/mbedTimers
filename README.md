@@ -1,6 +1,6 @@
 # Mbed Timers Library v1.0.0
 
-The **Mbed Timers Library** allows you to measure the time between started and stop command. The time can measured in milli or micro seconds. Micro seconds have only a resolution of 4µs!
+The **Mbed Timers Library** allows you to measure the time between start and stop commands. The time can measured in milli or micro seconds.
 
 ## Installation
 
