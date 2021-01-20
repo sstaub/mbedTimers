@@ -1,0 +1,14 @@
+{
+  "name": "Timers",
+  "keywords": "Timers",
+  "description": "A small library for measuring the time between started and stop command.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sstaub/mbedTimers"
+  },
+  "version": "1.0.0",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
+
